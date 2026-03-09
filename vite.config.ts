@@ -2,7 +2,6 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    // GitHub Pages deploys to https://<username>.github.io/<repo-name>/
-    // Set base to './' for relative paths so it works on any subpath
-    base: './',
+    // Ajuste para GitHub Pages: nombre del repositorio entre barras
+    base: '/BUSCADOR-DE-FONDOS-/',
 })
