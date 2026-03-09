@@ -1,6 +1,6 @@
 # 🔭 Radar de Fondos Concursables
 
-> Navega y encuentra fondos para educación, patrimonio, desarrollo rural (agro) y conservación ambiental, con foco especial en Ñuble y San Fabián de Alico.
+> Navega y descubre fondos para educación, patrimonio, desarrollo rural (agro) y conservación ambiental, con foco especial en Ñuble y San Fabián de Alico.
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
